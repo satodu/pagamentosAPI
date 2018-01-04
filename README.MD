@@ -1,9 +1,9 @@
-#API BAHER IMPORTS
+#API de Pagamento para Mundpipagg para consumo de terceiros
 
 API Baseada em CodeIgniter para facilitar manutenção e lightweight.
 
 ### Instalar
-- git clone https://panda_sato@bitbucket.org/baherimports/pagamentosapi.git;
+- git clone https://github.com/satodu/pagamentosAPI ;
 - cd pagamentosAPI;
 - git submodule init;
 - git submodule update;
