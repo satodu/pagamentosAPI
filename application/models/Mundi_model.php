@@ -11,7 +11,7 @@ class Mundi_model extends CI_Model {
 			    \Gateway\ApiClient::setBaseUrl("https://transactionv2.mundipaggone.com");
 
 			    // Define a chave da loja
-			    \Gateway\ApiClient::setMerchantKey("Token para Conexão");
+			    \Gateway\ApiClient::setMerchantKey("Sua Merchant Key deve estar aqui");
 
 			    //Cria um objeto ApiClient
 			    $client = new Gateway\ApiClient();
